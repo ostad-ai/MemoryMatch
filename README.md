@@ -9,5 +9,5 @@ This is a **memory match game** in which the player first chooses the **theme** 
 ## This archive includes the executable program: **memorymatch.exe**, which is suitable for **Windows 10** and over. You should click on the executable to run.
 [Download the archive for win64](https://drive.google.com/file/d/1wtz2jlqXFdsrh2oDiieDaWJfqttJZ2Jx/view?usp=sharing)
 ---
-![A snapshot of the game: MemoryMatch, version 0.0.0.0](Media/ver-0-0-0-0.jpg) *Figure 1: A snapshot of MemoryMathc Game, version 0.0.0.0, while playing the game.*
+![A snapshot of the game: MemoryMatch, version 0.0.0.0](Media/ver-0-0-0-0.jpg) *Figure 1: A snapshot of MemoryMatch Game, version 0.0.0.0, while playing the game.*
 ---
